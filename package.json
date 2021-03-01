@@ -1,0 +1,23 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto Open-Source para fazer videos diversos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sploters/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sploters/video-maker/issues"
+  },
+  "homepage": "https://github.com/Sploters/video-maker#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
