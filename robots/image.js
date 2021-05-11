@@ -28,13 +28,13 @@ async function robot() {
             searchType: 'image',
             num: 3
         })
+        
         const imagesUrl = response.data.items.map((item) => {
             return item.link
         })
         
         return imagesUrl
     }
-    
 }
 
 module.exports = robot
